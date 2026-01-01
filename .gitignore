@@ -1,0 +1,17 @@
+# Environments
+Creditvenv/
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files
+*.csv
+*.xlsx
+
+# Model artifacts (Optional: only if you want to keep models off GitHub)
+# models/*.pkl
